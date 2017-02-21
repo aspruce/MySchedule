@@ -1,0 +1,31 @@
+table
+{
+  text-align: left;
+  border: 1px solid black;
+  width: 35%;
+}
+tr,td
+{
+  border: 1px solid black;
+}
+h1
+{
+  text-decoration: underline;
+  font-weight: bold;
+}
+.Even
+{
+  background-color: #F6F8EE;
+}
+.Odd
+{
+  background-color: #121310;
+  color: #D6E68A;
+}
+td:hover, td:active
+{
+  background-color:#899752;
+  color: #95AA61;
+}
+
+/* Color Palette adapted from: http://www.colourlovers.com/palette/154705/Panda_vs_Bamboo */
